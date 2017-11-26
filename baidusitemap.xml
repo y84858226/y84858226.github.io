@@ -4,15 +4,30 @@
 
     
   <url>
-    <loc>https://y84858226.github.io/2017/08/08/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2017-08-14T12:01:32.760Z</lastmod>
+    <loc>https://y84858226.github.io/2017/10/03/JVM%E5%8A%A0%E8%BD%BDclass%E6%96%87%E4%BB%B6%E7%9A%84%E5%8E%9F%E7%90%86%E6%9C%BA%E5%88%B6/</loc>
+    <lastmod>2017-11-26T11:41:08.631Z</lastmod>
     <data>
         <display>
-        <title>测试</title>
-        <pubTime>2017-08-08T15:01:52.000Z</pubTime>
+        <title>JVM加载class文件的原理机制</title>
+        <pubTime>2017-10-03T05:16:50.000Z</pubTime>
         
-        <tag>测试类</tag>
+        <tag>JVM</tag>
          
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://y84858226.github.io/2017/11/03/BufferRandomAccessFile/</loc>
+    <lastmod>2017-11-03T05:16:50.804Z</lastmod>
+    <data>
+        <display>
+        <title>BufferRandomAccessFile</title>
+        <pubTime>2017-11-03T05:16:50.000Z</pubTime>
+        
          
            
         </display>
